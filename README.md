@@ -1,4 +1,5 @@
 # speedUp2
+echo "# speedUp2
 echo "# speedUp2" >> README.md
 git init
 git add README.md
@@ -79,3 +80,4 @@ If you have any issues with file manager, you may report them on
 This software is released under the MIT license.
 
 Icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/).
+# speedUp2" >> README.md
